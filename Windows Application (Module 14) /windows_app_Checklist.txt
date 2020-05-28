@@ -1,0 +1,35 @@
+//ASSIGNMENT CHECKLIST
+GUI Assignments: Grading Checklist for Common Missed Points
+The following is a list of common missed points that you should never give up from an assignment:
+
+Everything must be renamed. Every button, textbox, groupbox, listbox, form. You must rename EVERYTHING. this includes the renaming of the Form itself in the Solution Explorer and always change the Form's Text property as well so it doesn't say FORM1. 
+
+If there is a Commit button of any sort on your form that you put there, such as Calculate, Go, Submit, AddToBox, ect.. it must be assigned as the Form's Accept button, there can be only one per form.
+
+If there is a button for ANY Form that you put there that exits the program it must be assigned as the Form's Cancel button.
+
+All buttons should always have shortcut key access. This is done using the "&" sign in the name text property before the leader that you want to be the shortcut.
+
+Make sure you have your Tab Orders in place so they flow from left to right, and then top to bottom.
+
+Follow the naming conventions for controls and variables.
+
+Put in your academic header.
+
+Create a folder with the assignment name followed by your last name, then drop your ENTIRE folder containing the Solution file into this folder, zip it and submit.
+
+Always name the Project as you create it.
+
+Always delete orphan code, if you are not using it delete it.
+
+Clean up your code spacing. I don't need random 5 blank lines in between code. A single space will be suffice between blocks of code, and not between every line of code. 
+
+Keep your UI and messages professional and spell checked. Treat me like the End User that purchased your software. If it is out of line or uses poor grammar that is bad.
+
+Use the correct object for the correct job. Example: A TextBox is meant for accepting User 
+Input. A Label is meant for displaying information. If you display in a TextBox, the user can make changes to your output.
+
+Make a comment above each section of code describing the purpose of the code. Typically one line of comment per block of code or change in task
+If you choose to use Objects for holding encapsulated data, which we get into the module on Classes, then it MUST be a separate file, not in the same file as the code utilizingg it.
+
+All projects must be submitted as Windows Forms applications. No console applications will be accepted.
