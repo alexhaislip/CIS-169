@@ -1,0 +1,25 @@
+//ASSIGNMENT CHECKLIST
+
+
+Follow the naming conventions for objects, methods, and variables.
+
+Put in your academic header.
+
+Always name the project as you create it.
+
+Always delete orphan code, if you are not using it delete it.
+
+Clean up your code spacing. I don't need random 5 blank lines in between code. A single space will be suffice between blocks of code, and not between every line of code.
+
+Keep your Console UI and messages professional and spell checked. The instructor is the end user and runs the program not knowing what input might be expect or what the output is representing. If it is out of line or uses poor grammar that is bad.
+
+Use the variable for the job. Use a decimal for money, an integer for age in years, etc.
+
+Make a comment above each section of code describing the purpose of the code. Typically one line of comment per block of code or change in task
+
+If you choose to use Objects for holding encapsulated data, which we get into the module on Classes, then it MUST be a separate file, not in the same file as the code utilizing it.
+
+All projects must be submitted as Console Applications, unless specified. No Windows Forms Applications will be accepted.
+
+
+Once you learn how to handle exceptions and validate user input, you should always handle exceptions and validate user input.
